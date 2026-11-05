@@ -10,7 +10,7 @@ I spend most of my time experimenting with software development, Linux infrastru
 - **Systems & Infrastructure:** Linux, Server Administration, DevOps
 - **Cloud:** Cloud Computing, Infrastructure Management
 - **Security:** DevSecOps, Red Teaming, Web Application Security
-- **Networking:** Network Administration, TCP/IP
+- **Networking:** Network Administration
 - **Tools:** Git, GitHub
 
 ## Projects & Work
